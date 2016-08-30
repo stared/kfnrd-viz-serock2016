@@ -1,0 +1,1219 @@
+{
+  "links": [
+    {
+      "target": 16,
+      "source": 26,
+      "pmi": 1.0296194171811581,
+      "count": 1,
+      "oe": 2.8
+    },
+    {
+      "target": 22,
+      "source": 26,
+      "pmi": 1.3397743454849977,
+      "count": 1,
+      "oe": 3.8181818181818183
+    },
+    {
+      "target": 3,
+      "source": 26,
+      "pmi": 2.3513752571634776,
+      "count": 1,
+      "oe": 10.5
+    },
+    {
+      "target": 10,
+      "source": 26,
+      "pmi": 0.7419373447293773,
+      "count": 1,
+      "oe": 2.1
+    },
+    {
+      "target": 0,
+      "source": 5,
+      "pmi": 1.0296194171811581,
+      "count": 9,
+      "oe": 2.8
+    },
+    {
+      "target": 6,
+      "source": 5,
+      "pmi": 0.6241543090729939,
+      "count": 2,
+      "oe": 1.8666666666666667
+    },
+    {
+      "target": 9,
+      "source": 5,
+      "pmi": -0.06899287148695143,
+      "count": 1,
+      "oe": 0.9333333333333333
+    },
+    {
+      "target": 15,
+      "source": 5,
+      "pmi": 0.15415067982725836,
+      "count": 1,
+      "oe": 1.1666666666666667
+    },
+    {
+      "target": 16,
+      "source": 5,
+      "pmi": -1.1676051601550612,
+      "count": 1,
+      "oe": 0.3111111111111111
+    },
+    {
+      "target": 8,
+      "source": 5,
+      "pmi": 0.6931471805599453,
+      "count": 3,
+      "oe": 2.0
+    },
+    {
+      "target": 25,
+      "source": 5,
+      "pmi": 0.9526583760450299,
+      "count": 5,
+      "oe": 2.5925925925925926
+    },
+    {
+      "target": 22,
+      "source": 5,
+      "pmi": -0.8574502318512216,
+      "count": 1,
+      "oe": 0.42424242424242425
+    },
+    {
+      "target": 27,
+      "source": 5,
+      "pmi": -0.25131442828090605,
+      "count": 1,
+      "oe": 0.7777777777777778
+    },
+    {
+      "target": 23,
+      "source": 5,
+      "pmi": -0.8574502318512216,
+      "count": 1,
+      "oe": 0.42424242424242425
+    },
+    {
+      "target": 12,
+      "source": 5,
+      "pmi": 0.44183275227903923,
+      "count": 2,
+      "oe": 1.5555555555555556
+    },
+    {
+      "target": 28,
+      "source": 5,
+      "pmi": 0.377294231141468,
+      "count": 5,
+      "oe": 1.4583333333333333
+    },
+    {
+      "target": 10,
+      "source": 5,
+      "pmi": 0.4906229164484712,
+      "count": 7,
+      "oe": 1.6333333333333333
+    },
+    {
+      "target": 6,
+      "source": 24,
+      "pmi": 0.8754687373538999,
+      "count": 1,
+      "oe": 2.4
+    },
+    {
+      "target": 16,
+      "source": 24,
+      "pmi": -0.2231435513142097,
+      "count": 1,
+      "oe": 0.8
+    },
+    {
+      "target": 25,
+      "source": 24,
+      "pmi": 0.9808292530117262,
+      "count": 2,
+      "oe": 2.6666666666666665
+    },
+    {
+      "target": 27,
+      "source": 24,
+      "pmi": 0.6931471805599453,
+      "count": 1,
+      "oe": 2.0
+    },
+    {
+      "target": 18,
+      "source": 24,
+      "pmi": 1.0986122886681098,
+      "count": 1,
+      "oe": 3.0
+    },
+    {
+      "target": 12,
+      "source": 24,
+      "pmi": 0.6931471805599453,
+      "count": 1,
+      "oe": 2.0
+    },
+    {
+      "target": 28,
+      "source": 24,
+      "pmi": 1.3217558399823195,
+      "count": 5,
+      "oe": 3.75
+    },
+    {
+      "target": 19,
+      "source": 24,
+      "pmi": 2.0794415416798357,
+      "count": 2,
+      "oe": 8.0
+    },
+    {
+      "target": 6,
+      "source": 0,
+      "pmi": 0.11332868530700327,
+      "count": 1,
+      "oe": 1.12
+    },
+    {
+      "target": 13,
+      "source": 0,
+      "pmi": -0.579818495252942,
+      "count": 1,
+      "oe": 0.56
+    },
+    {
+      "target": 15,
+      "source": 0,
+      "pmi": 0.3364722366212129,
+      "count": 1,
+      "oe": 1.4
+    },
+    {
+      "target": 16,
+      "source": 0,
+      "pmi": -0.29213642280116114,
+      "count": 2,
+      "oe": 0.7466666666666667
+    },
+    {
+      "target": 8,
+      "source": 0,
+      "pmi": 0.47000362924573563,
+      "count": 2,
+      "oe": 1.6
+    },
+    {
+      "target": 25,
+      "source": 0,
+      "pmi": 0.6241543090729939,
+      "count": 3,
+      "oe": 1.8666666666666667
+    },
+    {
+      "target": 29,
+      "source": 0,
+      "pmi": -0.2231435513142097,
+      "count": 1,
+      "oe": 0.8
+    },
+    {
+      "target": 11,
+      "source": 0,
+      "pmi": 0.47000362924573563,
+      "count": 2,
+      "oe": 1.6
+    },
+    {
+      "target": 23,
+      "source": 0,
+      "pmi": -0.6751286750572671,
+      "count": 1,
+      "oe": 0.509090909090909
+    },
+    {
+      "target": 12,
+      "source": 0,
+      "pmi": -0.06899287148695143,
+      "count": 1,
+      "oe": 0.9333333333333333
+    },
+    {
+      "target": 2,
+      "source": 0,
+      "pmi": -0.579818495252942,
+      "count": 1,
+      "oe": 0.56
+    },
+    {
+      "target": 17,
+      "source": 0,
+      "pmi": -0.916290731874155,
+      "count": 1,
+      "oe": 0.4
+    },
+    {
+      "target": 21,
+      "source": 0,
+      "pmi": -0.2231435513142097,
+      "count": 1,
+      "oe": 0.8
+    },
+    {
+      "target": 10,
+      "source": 0,
+      "pmi": 0.5187937934151675,
+      "count": 6,
+      "oe": 1.68
+    },
+    {
+      "target": 13,
+      "source": 20,
+      "pmi": 1.5686159179138452,
+      "count": 4,
+      "oe": 4.8
+    },
+    {
+      "target": 29,
+      "source": 20,
+      "pmi": 0.5389965007326869,
+      "count": 1,
+      "oe": 1.7142857142857142
+    },
+    {
+      "target": 11,
+      "source": 20,
+      "pmi": 1.9252908618525775,
+      "count": 4,
+      "oe": 6.857142857142857
+    },
+    {
+      "target": 19,
+      "source": 20,
+      "pmi": 1.3862943611198906,
+      "count": 1,
+      "oe": 4.0
+    },
+    {
+      "target": 10,
+      "source": 20,
+      "pmi": 1.0986122886681098,
+      "count": 5,
+      "oe": 3.0
+    },
+    {
+      "target": 7,
+      "source": 6,
+      "pmi": 1.0296194171811581,
+      "count": 1,
+      "oe": 2.8
+    },
+    {
+      "target": 15,
+      "source": 6,
+      "pmi": 1.4350845252893227,
+      "count": 1,
+      "oe": 4.2
+    },
+    {
+      "target": 8,
+      "source": 6,
+      "pmi": 0.8754687373538999,
+      "count": 1,
+      "oe": 2.4
+    },
+    {
+      "target": 27,
+      "source": 6,
+      "pmi": 1.7227665977411035,
+      "count": 2,
+      "oe": 5.6
+    },
+    {
+      "target": 11,
+      "source": 6,
+      "pmi": 0.8754687373538999,
+      "count": 1,
+      "oe": 2.4
+    },
+    {
+      "target": 28,
+      "source": 6,
+      "pmi": 0.7419373447293773,
+      "count": 2,
+      "oe": 2.1
+    },
+    {
+      "target": 25,
+      "source": 13,
+      "pmi": 0.6241543090729939,
+      "count": 2,
+      "oe": 1.8666666666666667
+    },
+    {
+      "target": 27,
+      "source": 13,
+      "pmi": 0.3364722366212129,
+      "count": 1,
+      "oe": 1.4
+    },
+    {
+      "target": 29,
+      "source": 13,
+      "pmi": 0.1823215567939546,
+      "count": 1,
+      "oe": 1.2
+    },
+    {
+      "target": 11,
+      "source": 13,
+      "pmi": 0.1823215567939546,
+      "count": 1,
+      "oe": 1.2
+    },
+    {
+      "target": 28,
+      "source": 13,
+      "pmi": 0.7419373447293773,
+      "count": 4,
+      "oe": 2.1
+    },
+    {
+      "target": 10,
+      "source": 13,
+      "pmi": 1.0784095813505903,
+      "count": 7,
+      "oe": 2.94
+    },
+    {
+      "target": 7,
+      "source": 9,
+      "pmi": 1.0296194171811581,
+      "count": 1,
+      "oe": 2.8
+    },
+    {
+      "target": 16,
+      "source": 9,
+      "pmi": 1.2119409739751128,
+      "count": 3,
+      "oe": 3.36
+    },
+    {
+      "target": 12,
+      "source": 9,
+      "pmi": 1.0296194171811581,
+      "count": 1,
+      "oe": 2.8
+    },
+    {
+      "target": 2,
+      "source": 9,
+      "pmi": 0.5187937934151675,
+      "count": 1,
+      "oe": 1.68
+    },
+    {
+      "target": 17,
+      "source": 9,
+      "pmi": 0.8754687373538999,
+      "count": 2,
+      "oe": 2.4
+    },
+    {
+      "target": 10,
+      "source": 9,
+      "pmi": -0.1743533871447778,
+      "count": 1,
+      "oe": 0.84
+    },
+    {
+      "target": 16,
+      "source": 7,
+      "pmi": -0.06899287148695143,
+      "count": 1,
+      "oe": 0.9333333333333333
+    },
+    {
+      "target": 1,
+      "source": 7,
+      "pmi": 0.44183275227903923,
+      "count": 1,
+      "oe": 1.5555555555555556
+    },
+    {
+      "target": 22,
+      "source": 7,
+      "pmi": 0.9343092373768334,
+      "count": 2,
+      "oe": 2.5454545454545454
+    },
+    {
+      "target": 27,
+      "source": 7,
+      "pmi": 0.8472978603872037,
+      "count": 1,
+      "oe": 2.3333333333333335
+    },
+    {
+      "target": 29,
+      "source": 7,
+      "pmi": 1.3862943611198906,
+      "count": 2,
+      "oe": 4.0
+    },
+    {
+      "target": 18,
+      "source": 7,
+      "pmi": 1.252762968495368,
+      "count": 1,
+      "oe": 3.5
+    },
+    {
+      "target": 12,
+      "source": 7,
+      "pmi": 0.8472978603872037,
+      "count": 1,
+      "oe": 2.3333333333333335
+    },
+    {
+      "target": 4,
+      "source": 7,
+      "pmi": 0.07410797215372183,
+      "count": 1,
+      "oe": 1.0769230769230769
+    },
+    {
+      "target": 22,
+      "source": 15,
+      "pmi": 0.6466271649250525,
+      "count": 1,
+      "oe": 1.9090909090909092
+    },
+    {
+      "target": 27,
+      "source": 15,
+      "pmi": 1.252762968495368,
+      "count": 1,
+      "oe": 3.5
+    },
+    {
+      "target": 11,
+      "source": 15,
+      "pmi": 1.0986122886681098,
+      "count": 1,
+      "oe": 3.0
+    },
+    {
+      "target": 23,
+      "source": 15,
+      "pmi": 1.3397743454849977,
+      "count": 2,
+      "oe": 3.8181818181818183
+    },
+    {
+      "target": 28,
+      "source": 15,
+      "pmi": 0.27193371548364176,
+      "count": 1,
+      "oe": 1.3125
+    },
+    {
+      "target": 17,
+      "source": 15,
+      "pmi": 1.0986122886681098,
+      "count": 2,
+      "oe": 3.0
+    },
+    {
+      "target": 8,
+      "source": 16,
+      "pmi": -0.2231435513142097,
+      "count": 1,
+      "oe": 0.8
+    },
+    {
+      "target": 27,
+      "source": 16,
+      "pmi": -0.06899287148695143,
+      "count": 1,
+      "oe": 0.9333333333333333
+    },
+    {
+      "target": 4,
+      "source": 16,
+      "pmi": 0.9495767095076219,
+      "count": 6,
+      "oe": 2.5846153846153848
+    },
+    {
+      "target": 28,
+      "source": 16,
+      "pmi": -0.35667494393873245,
+      "count": 2,
+      "oe": 0.7
+    },
+    {
+      "target": 3,
+      "source": 16,
+      "pmi": 0.3364722366212129,
+      "count": 1,
+      "oe": 1.4
+    },
+    {
+      "target": 2,
+      "source": 16,
+      "pmi": 1.4996230464268938,
+      "count": 8,
+      "oe": 4.48
+    },
+    {
+      "target": 17,
+      "source": 16,
+      "pmi": 0.1823215567939546,
+      "count": 3,
+      "oe": 1.2
+    },
+    {
+      "target": 8,
+      "source": 1,
+      "pmi": 0.28768207245178085,
+      "count": 1,
+      "oe": 1.3333333333333333
+    },
+    {
+      "target": 22,
+      "source": 1,
+      "pmi": 1.445134861142824,
+      "count": 5,
+      "oe": 4.242424242424242
+    },
+    {
+      "target": 18,
+      "source": 1,
+      "pmi": 0.8472978603872037,
+      "count": 1,
+      "oe": 2.3333333333333335
+    },
+    {
+      "target": 23,
+      "source": 1,
+      "pmi": -0.1643030512912763,
+      "count": 1,
+      "oe": 0.8484848484848485
+    },
+    {
+      "target": 4,
+      "source": 1,
+      "pmi": -0.3313571359544425,
+      "count": 1,
+      "oe": 0.717948717948718
+    },
+    {
+      "target": 14,
+      "source": 1,
+      "pmi": 1.9459101490553132,
+      "count": 3,
+      "oe": 7.0
+    },
+    {
+      "target": 3,
+      "source": 1,
+      "pmi": 0.8472978603872037,
+      "count": 1,
+      "oe": 2.3333333333333335
+    },
+    {
+      "target": 2,
+      "source": 1,
+      "pmi": -0.06899287148695143,
+      "count": 1,
+      "oe": 0.9333333333333333
+    },
+    {
+      "target": 17,
+      "source": 1,
+      "pmi": -0.40546510810816444,
+      "count": 1,
+      "oe": 0.6666666666666666
+    },
+    {
+      "target": 21,
+      "source": 1,
+      "pmi": 1.3862943611198906,
+      "count": 3,
+      "oe": 4.0
+    },
+    {
+      "target": 22,
+      "source": 8,
+      "pmi": 0.0870113769896297,
+      "count": 1,
+      "oe": 1.0909090909090908
+    },
+    {
+      "target": 29,
+      "source": 8,
+      "pmi": 0.5389965007326869,
+      "count": 1,
+      "oe": 1.7142857142857142
+    },
+    {
+      "target": 23,
+      "source": 8,
+      "pmi": 0.0870113769896297,
+      "count": 1,
+      "oe": 1.0909090909090908
+    },
+    {
+      "target": 12,
+      "source": 8,
+      "pmi": 1.3862943611198906,
+      "count": 2,
+      "oe": 4.0
+    },
+    {
+      "target": 3,
+      "source": 8,
+      "pmi": 1.0986122886681098,
+      "count": 1,
+      "oe": 3.0
+    },
+    {
+      "target": 2,
+      "source": 8,
+      "pmi": 0.1823215567939546,
+      "count": 1,
+      "oe": 1.2
+    },
+    {
+      "target": 17,
+      "source": 8,
+      "pmi": -0.15415067982725836,
+      "count": 1,
+      "oe": 0.8571428571428571
+    },
+    {
+      "target": 21,
+      "source": 8,
+      "pmi": 1.2321436812926323,
+      "count": 2,
+      "oe": 3.4285714285714284
+    },
+    {
+      "target": 10,
+      "source": 8,
+      "pmi": -0.5108256237659907,
+      "count": 1,
+      "oe": 0.6
+    },
+    {
+      "target": 28,
+      "source": 25,
+      "pmi": 1.252762968495368,
+      "count": 6,
+      "oe": 3.5
+    },
+    {
+      "target": 29,
+      "source": 22,
+      "pmi": 0.780158557549575,
+      "count": 2,
+      "oe": 2.1818181818181817
+    },
+    {
+      "target": 23,
+      "source": 22,
+      "pmi": 0.32817343380651787,
+      "count": 2,
+      "oe": 1.3884297520661157
+    },
+    {
+      "target": 12,
+      "source": 22,
+      "pmi": 0.24116205681688804,
+      "count": 1,
+      "oe": 1.2727272727272727
+    },
+    {
+      "target": 14,
+      "source": 22,
+      "pmi": 1.7452394535931621,
+      "count": 3,
+      "oe": 5.7272727272727275
+    },
+    {
+      "target": 17,
+      "source": 22,
+      "pmi": 0.0870113769896297,
+      "count": 2,
+      "oe": 1.0909090909090908
+    },
+    {
+      "target": 21,
+      "source": 22,
+      "pmi": 0.780158557549575,
+      "count": 2,
+      "oe": 2.1818181818181817
+    },
+    {
+      "target": 10,
+      "source": 22,
+      "pmi": -0.9628107475090478,
+      "count": 1,
+      "oe": 0.38181818181818183
+    },
+    {
+      "target": 2,
+      "source": 27,
+      "pmi": 0.3364722366212129,
+      "count": 1,
+      "oe": 1.4
+    },
+    {
+      "target": 17,
+      "source": 27,
+      "pmi": 0.0,
+      "count": 1,
+      "oe": 1.0
+    },
+    {
+      "target": 10,
+      "source": 27,
+      "pmi": 0.3364722366212129,
+      "count": 2,
+      "oe": 1.4
+    },
+    {
+      "target": 18,
+      "source": 29,
+      "pmi": 1.791759469228055,
+      "count": 2,
+      "oe": 6.0
+    },
+    {
+      "target": 11,
+      "source": 29,
+      "pmi": 0.5389965007326869,
+      "count": 1,
+      "oe": 1.7142857142857142
+    },
+    {
+      "target": 21,
+      "source": 29,
+      "pmi": 1.9252908618525775,
+      "count": 4,
+      "oe": 6.857142857142857
+    },
+    {
+      "target": 12,
+      "source": 18,
+      "pmi": 1.252762968495368,
+      "count": 1,
+      "oe": 3.5
+    },
+    {
+      "target": 21,
+      "source": 18,
+      "pmi": 1.791759469228055,
+      "count": 2,
+      "oe": 6.0
+    },
+    {
+      "target": 12,
+      "source": 11,
+      "pmi": 0.6931471805599453,
+      "count": 1,
+      "oe": 2.0
+    },
+    {
+      "target": 28,
+      "source": 11,
+      "pmi": -0.2876820724517809,
+      "count": 1,
+      "oe": 0.75
+    },
+    {
+      "target": 19,
+      "source": 11,
+      "pmi": 1.3862943611198906,
+      "count": 1,
+      "oe": 4.0
+    },
+    {
+      "target": 10,
+      "source": 11,
+      "pmi": 0.5877866649021191,
+      "count": 3,
+      "oe": 1.8
+    },
+    {
+      "target": 4,
+      "source": 23,
+      "pmi": 1.0774100810175067,
+      "count": 5,
+      "oe": 2.937062937062937
+    },
+    {
+      "target": 3,
+      "source": 23,
+      "pmi": 1.7452394535931621,
+      "count": 3,
+      "oe": 5.7272727272727275
+    },
+    {
+      "target": 2,
+      "source": 23,
+      "pmi": -0.2696635669491026,
+      "count": 1,
+      "oe": 0.7636363636363637
+    },
+    {
+      "target": 17,
+      "source": 23,
+      "pmi": 1.5910887737659039,
+      "count": 9,
+      "oe": 4.909090909090909
+    },
+    {
+      "target": 10,
+      "source": 23,
+      "pmi": -0.9628107475090478,
+      "count": 1,
+      "oe": 0.38181818181818183
+    },
+    {
+      "target": 4,
+      "source": 12,
+      "pmi": 0.07410797215372183,
+      "count": 1,
+      "oe": 1.0769230769230769
+    },
+    {
+      "target": 2,
+      "source": 12,
+      "pmi": 0.3364722366212129,
+      "count": 1,
+      "oe": 1.4
+    },
+    {
+      "target": 2,
+      "source": 4,
+      "pmi": 1.3550418176157861,
+      "count": 6,
+      "oe": 3.876923076923077
+    },
+    {
+      "target": 17,
+      "source": 4,
+      "pmi": 1.0185695809945732,
+      "count": 6,
+      "oe": 2.769230769230769
+    },
+    {
+      "target": 28,
+      "source": 14,
+      "pmi": 0.27193371548364176,
+      "count": 1,
+      "oe": 1.3125
+    },
+    {
+      "target": 10,
+      "source": 14,
+      "pmi": 0.04879016416943205,
+      "count": 1,
+      "oe": 1.05
+    },
+    {
+      "target": 19,
+      "source": 28,
+      "pmi": 1.252762968495368,
+      "count": 2,
+      "oe": 3.5
+    },
+    {
+      "target": 10,
+      "source": 28,
+      "pmi": 0.04879016416943205,
+      "count": 4,
+      "oe": 1.05
+    },
+    {
+      "target": 2,
+      "source": 3,
+      "pmi": 0.7419373447293773,
+      "count": 1,
+      "oe": 2.1
+    },
+    {
+      "target": 17,
+      "source": 3,
+      "pmi": 1.0986122886681098,
+      "count": 2,
+      "oe": 3.0
+    },
+    {
+      "target": 10,
+      "source": 3,
+      "pmi": 0.04879016416943205,
+      "count": 1,
+      "oe": 1.05
+    },
+    {
+      "target": 10,
+      "source": 17,
+      "pmi": -1.2039728043259361,
+      "count": 1,
+      "oe": 0.3
+    }
+  ],
+  "nodes": [
+    {
+      "prowadzacy": "Micha\u0142 Gumiela, Grzegorz Gajoch",
+      "count": 15,
+      "name_long": "Druk 3D \u2013 czym jest, a czym nie jest?",
+      "category": "interdyscyplinarne",
+      "blok": "BLOK III 5-7 maja",
+      "name": "druk 3D"
+    },
+    {
+      "prowadzacy": "Albert Kozik",
+      "count": 9,
+      "name_long": "Nowy Prometeusz. Automaty i androidy w XVIII wieku.",
+      "category": "historyczne",
+      "blok": "BLOK I 29-30 kwietnia-1 maja",
+      "name": "androidy XVIII wieku"
+    },
+    {
+      "prowadzacy": "dr Wojciech Augustyniak",
+      "count": 10,
+      "name_long": "Wyznaczanie konformacji AMP i adenozyny w roztworze",
+      "category": "chemiczne",
+      "blok": "BLOK II 2-4 maja",
+      "name": "konformacja AMP"
+    },
+    {
+      "prowadzacy": "Grzegorz Skoraczyn\u0301ski",
+      "count": 4,
+      "name_long": "Wybrane zagadnienia proteomiki obliczeniowej",
+      "category": "biologiczne",
+      "blok": "BLOK III 5-7 maja",
+      "name": "proteomika obliczeniowa"
+    },
+    {
+      "prowadzacy": "Micha\u0142 Magott",
+      "count": 13,
+      "name_long": "Struktura kryszta\u0142u - rez\u0307yseria: oddzia\u0142ywania mie\u0328dzycza\u0328steczkowe",
+      "category": "chemiczne",
+      "blok": "BLOK III 5-7 maja",
+      "name": "struktura kryszta\u0142u"
+    },
+    {
+      "prowadzacy": "dr in\u017c. Micha\u0142 Krupi\u0144ski",
+      "count": 18,
+      "name_long": "Budujemy magnetometr",
+      "category": "fizyczne",
+      "blok": "BLOK II 2-4 maja",
+      "name": "budujemy magnetometr"
+    },
+    {
+      "prowadzacy": "Filip Kia\u0142ka, Tomasz Smo\u0142ka",
+      "count": 5,
+      "name_long": "Fale grawitacyjne",
+      "category": "fizyczne",
+      "blok": "BLOK I 29-30 kwietnia-1 maja",
+      "name": "fale grawitacyjne"
+    },
+    {
+      "prowadzacy": "dr Karolina Rakowiecka",
+      "count": 6,
+      "name_long": "Islam poza stereotypem",
+      "category": "interdyscyplinarne",
+      "blok": "BLOK II 2-4 maja",
+      "name": "Islam poza stereotypem"
+    },
+    {
+      "prowadzacy": "Sebastian Soberski",
+      "count": 7,
+      "name_long": "Obserwacje astronomiczne S\u0142on\u0301ca",
+      "category": "astr/geogr",
+      "blok": "BLOK III 5-7 maja",
+      "name": "obserwacje S\u0142o\u0144ca"
+    },
+    {
+      "prowadzacy": "prof. Micha\u0142 Szurek",
+      "count": 5,
+      "name_long": "Geometria elementarna w dowolnym wymiarze n = 1,2,3,4,5,6, .....",
+      "category": "matematyczne",
+      "blok": "BLOK III 5-7 maja",
+      "name": "w dowolnym wymiarze"
+    },
+    {
+      "prowadzacy": "Dominika Pawlik, Aleksander Zab\u0142ocki",
+      "count": 20,
+      "name_long": "\u201eK\u0142amie\u0328, nie mam dowodu i w ogo\u0301le jestem nieciekawe\u201d, czyli o twierdzeniu Goedla",
+      "category": "matematyczne",
+      "blok": "BLOK I 29-30 kwietnia-1 maja",
+      "name": "twierdzenie Goedla"
+    },
+    {
+      "prowadzacy": "dr Joanna Jaszun\u0301ska, dr Piotr Przytycki",
+      "count": 7,
+      "name_long": "P\u0142aszczyzna hiperboliczna",
+      "category": "matematyczne",
+      "blok": "BLOK II 2-4 maja",
+      "name": "p\u0142aszczyzna hiperboliczna"
+    },
+    {
+      "prowadzacy": "Jan Szejko",
+      "count": 6,
+      "name_long": "Sapolim",
+      "category": "interdyscyplinarne",
+      "blok": "BLOK I 29-30 kwietnia-1 maja",
+      "name": "j\u0119zyk Sapolim"
+    },
+    {
+      "prowadzacy": "dr Piotr Achinger",
+      "count": 10,
+      "name_long": "Funkcja dzeta Riemanna",
+      "category": "matematyczne",
+      "blok": "BLOK II 2-4 maja",
+      "name": "dzeta Riemanna"
+    },
+    {
+      "prowadzacy": "Jan Jerzy Sowa",
+      "count": 4,
+      "name_long": "Trzy obrazki z Trylogii, czyli dlaczego prawda jest ciekawsza od fikcji",
+      "category": "historyczne",
+      "blok": "BLOK II 2-4 maja",
+      "name": "prawda a fikcja"
+    },
+    {
+      "prowadzacy": "dr hab. Dariusz Plewczyn\u0301ski, in\u017c. Micha\u0142 Kadlof, inz\u0307. Przemys\u0142aw Sza\u0142aj",
+      "count": 4,
+      "name_long": "Jak przewidziec\u0301 strukture\u0328 tro\u0301jwymiarowa\u0328 ja\u0328dra komo\u0301rkowego, czyli trzeci wymiar informacji",
+      "category": "interdyscyplinarne",
+      "blok": "BLOK I 29-30 kwietnia-1 maja",
+      "name": "chromosomy 3D"
+    },
+    {
+      "prowadzacy": "Aleksandra Fulara",
+      "count": 15,
+      "name_long": "Na pocza\u0328tku jest porza\u0328dek. Podstawy, techniki i wyzwania krystalografii bia\u0142ek",
+      "category": "chemiczne",
+      "blok": "BLOK I 29-30 kwietnia-1 maja",
+      "name": "krystalografia bia\u0142ek"
+    },
+    {
+      "prowadzacy": "Anna Kornakiewicz, in\u017c. Adrian Kusek",
+      "count": 14,
+      "name_long": "\u201eBit, medycyna, wszechs\u0301wiat\u201d - podro\u0301z\u0307 w czasie, przestrzeni i wyobraz\u0301ni w oku i obiektywie lekarza i inz\u0307yniera",
+      "category": "biologiczne",
+      "blok": "BLOK II 2-4 maja",
+      "name": "lekarz i in\u017cynier"
+    },
+    {
+      "prowadzacy": "Monika Woz\u0301niak",
+      "count": 4,
+      "name_long": "Po co komu wykszta\u0142cenie?",
+      "category": "literaturoznawcze",
+      "blok": "BLOK III 5-7 maja",
+      "name": "wykszta\u0142cenie"
+    },
+    {
+      "prowadzacy": "prof. Krzysztof Oleszkiewicz",
+      "count": 3,
+      "name_long": "W\u0142asnos\u0301ci rozk\u0142ado\u0301w Bernoulliego i Poissona",
+      "category": "matematyczne",
+      "blok": "BLOK I 29-30 kwietnia-1 maja",
+      "name": "rozk\u0142ad Poissona"
+    },
+    {
+      "prowadzacy": "Marcin i Micha\u0142 Kotowscy",
+      "count": 7,
+      "name_long": "Entropia i zliczenie",
+      "category": "matematyczne",
+      "blok": "BLOK III 5-7 maja",
+      "name": "entropia i zliczanie"
+    },
+    {
+      "prowadzacy": "dr Barbara Babik",
+      "count": 7,
+      "name_long": "\u201eI uderzam go dwakroc\u0301... Dwa razy krzykna\u0328\u0142 \u2013 i leg\u0142 bez si\u0142y\u201d",
+      "category": "literaturoznawcze",
+      "blok": "BLOK II 2-4 maja",
+      "name": "Oresteja Ajschylosa"
+    },
+    {
+      "prowadzacy": "dr Igor Kraszewski",
+      "count": 11,
+      "name_long": "Odczytywanie historii. Jak i w jakim celu historycy wydaja\u0328 z\u0301ro\u0301d\u0142a? Wste\u0328p do warsztato\u0301w edytorskich na przyk\u0142adzie akt staropolskich",
+      "category": "historyczne",
+      "blok": "BLOK III 5-7 maja",
+      "name": "odczytywanie historii"
+    },
+    {
+      "prowadzacy": "dr Wojciech Derkowski",
+      "count": 11,
+      "name_long": "Rejestrujemy czynnos\u0301c\u0301 elektryczna\u0328 neurono\u0301w ludzkiego mo\u0301zgu",
+      "category": "biologiczne",
+      "blok": "BLOK I 29-30 kwietnia-1 maja",
+      "name": "rejestrujemy EEG"
+    },
+    {
+      "prowadzacy": "dr hab. inz\u0307. Piotr Faliszewski",
+      "count": 7,
+      "name_long": "Committee scoring rules \u2013 algorytmy i aksjomaty",
+      "category": "informatyczne",
+      "blok": "BLOK II 2-4 maja",
+      "name": "wybory komitet\u00f3w"
+    },
+    {
+      "prowadzacy": "Sebastian Jaszczur",
+      "count": 9,
+      "name_long": "Od czego zalez\u0307y matura?",
+      "category": "informatyczne",
+      "blok": "BLOK I 29-30 kwietnia-1 maja",
+      "name": "wyniki matury"
+    },
+    {
+      "prowadzacy": "Maciej Trojnar",
+      "count": 2,
+      "name_long": "Atlas to podstawa!",
+      "category": "astr/geogr",
+      "blok": "BLOK II 2-4 maja",
+      "name": "atlas to podstawa"
+    },
+    {
+      "prowadzacy": "dr Piotr Migda\u0142",
+      "count": 6,
+      "name_long": "Optyczny wst\u0119p do mechaniki kwantowej",
+      "category": "fizyczne",
+      "blok": "BLOK III 5-7 maja",
+      "name": "optyka kwantowa"
+    },
+    {
+      "prowadzacy": "Krzysztof Zaja\u0328c",
+      "count": 16,
+      "name_long": "Uczenie maszynowe i okolice",
+      "category": "informatyczne",
+      "blok": "BLOK III 5-7 maja",
+      "name": "uczenie maszynowe"
+    },
+    {
+      "prowadzacy": "Micha\u0142 Zdunik",
+      "count": 7,
+      "name_long": "Pisac\u0301 o sobie: dzienniki i inne formy autobiograficzne",
+      "category": "literaturoznawcze",
+      "blok": "BLOK I 29-30 kwietnia-1 maja",
+      "name": "pisa\u0107\u00a0o sobie"
+    }
+  ]
+}
