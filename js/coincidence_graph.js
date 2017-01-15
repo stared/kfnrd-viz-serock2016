@@ -4,7 +4,7 @@ function CoincidenceGraph(selector) {
   "use strict";
 
   var width = 900,
-      height = 700;
+      height = 500;
 
   var svg = d3.select(selector).append("svg")
     .attr("width", width)
@@ -14,10 +14,11 @@ function CoincidenceGraph(selector) {
 
   var tooltip = new Tooltip(selector);
 
-  var siNumberApprox = function (x) {
+  // for bigger numbers
+  var siNumberApprox = function (x, float) {
     var prefix = d3.formatPrefix(x);
     var scaled = prefix.scale(x);
-    return scaled.toFixed(scaled < 10 ? 1 : 0) + prefix.symbol;
+    return scaled.toFixed((float && scaled < 10) ? 1 : 0) + prefix.symbol;
   };
 
   this.loadCSV = function (path) {
@@ -82,13 +83,13 @@ function CoincidenceGraph(selector) {
           console.log(e);
           if (muteCategory && !!e.source.category && !!e.target.category) {
             // do przemyślenia
-            var text = siNumberApprox(e.count).replace("k", " tys.") + " zdajacych zarazem:<br>" +
+            var text = siNumberApprox(e.count) + " uczestniczących zarazem w:<br>" +
                        e.source.category + ": " + e.source.name + " i " + e.target.category + ": " + e.target.name + "<br><br>" +
-                       e.oe.toFixed(1) + "x bardziej prawdopodobna kombinacja niz losowo";
+                       e.oe.toFixed(1) + "x bardziej prawdopodobna kombinacja niż losowo";
           } else {
-            var text = siNumberApprox(e.count).replace("k", " tys.") + " zdajacych zarazem:<br>" +
+            var text = siNumberApprox(e.count) + " uczestniczących zarazem w:<br>" +
                        e.source.name + " i " + e.target.name + "<br><br>" +
-                       e.oe.toFixed(1) + "x bardziej prawdopodobna kombinacja niz losowo";
+                       e.oe.toFixed(1) + "x bardziej prawdopodobna kombinacja niż losowo";
           }
           tooltip.show(text);
         })
@@ -105,7 +106,7 @@ function CoincidenceGraph(selector) {
           return colors(d.category);
         })
         .on("mouseover", function (d) {
-          tooltip.show(siNumberApprox(d.count).replace("k", " tys.") + " zdajacych:<br>" + d.name);
+          tooltip.show(siNumberApprox(d.count) + " uczestniczących w:<br>" + d.name);
         })
         .on("mouseout", function () {
           tooltip.out();
