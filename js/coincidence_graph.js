@@ -35,6 +35,21 @@ function CoincidenceGraph(selector) {
     var eoThresholdMin = options.eoThresholdMin || 1.25;
     var muteCategory = options.muteCategory || false;
 
+    // to do: allow options
+    var tooltipNodeText = function (d) {
+      return siNumberApprox(d.count) +
+        " uczestniczących w:<br>" +
+        d.name +
+        "<br><br>" +
+        d.name_long +
+        "<br>" +
+        d.prowadzacy +
+        "<br><br>" +
+        d.category +
+        "<br>" +
+        d.blok;
+    };
+
     this.categories = _.chain(graph.nodes)
       .countBy('category')
       .keys()
@@ -106,7 +121,7 @@ function CoincidenceGraph(selector) {
           return colors(d.category);
         })
         .on("mouseover", function (d) {
-          tooltip.show(siNumberApprox(d.count) + " uczestniczących w:<br>" + d.name);
+          tooltip.show(tooltipNodeText(d));
         })
         .on("mouseout", function () {
           tooltip.out();
