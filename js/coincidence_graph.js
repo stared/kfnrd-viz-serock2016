@@ -11,6 +11,7 @@ function CoincidenceGraph(selector) {
     .attr("height", height);
 
   var g = svg.append("g");
+  this.g = g;
 
   var tooltip = new Tooltip(selector);
 
